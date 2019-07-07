@@ -1,2 +1,2 @@
 # gp
-Repo for testing Github
+Repo for testing Github for gridypixel.
