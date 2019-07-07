@@ -1,5 +1,5 @@
 $(document).ready(funciton(){
 
-// code here
+  console.log( 'Hello World! I am using GitHub!' );
 
 });
